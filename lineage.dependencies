@@ -8,7 +8,7 @@
     "target_path": "kernel/xiaomi/violet"
   },
   {
-    "repository": "ShivamKumar2002/vendor_xiaomi_violet-Q",
+    "repository": "Ayushroxx736/vendor_xiaomi_violet-Q",
     "target_path": "vendor/xiaomi/violet",
     "branch": "ten",
     "remote": "github"
