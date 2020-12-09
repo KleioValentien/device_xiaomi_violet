@@ -9,7 +9,7 @@
   },
   {
     "repository": "Ayushroxx736/vendor_xiaomi_violet-Q",
-    "target_path": "vendor/xiaomi/violet",
+    "target_path": "vendor/xiaomi",
     "branch": "ten",
     "remote": "github"
   }
